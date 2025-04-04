@@ -29,8 +29,8 @@ I am a Full Stack Web Developer with a deep passion for building robust web appl
 
 
 ### Github stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nelkeedo&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nelkeedo&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Nelsonmakena&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nelsonmakena&langs_count=5&theme=tokyonight)]()
 
 <h3 align="left">Let's Connect :handshake:</h3>
 <div align="left">
