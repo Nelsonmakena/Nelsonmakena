@@ -43,6 +43,5 @@ I am a Full Stack Web Developer with a deep passion for building robust web appl
 
 <h3 align="left">Let's Connect :handshake:</h3>
 <div align="left">
-<a target="_blank" href="[https://www.linkedin.com/in/nelson-ndolo/](https://www.linkedin.com/in/nelson-ndolo-1a0037249/)"><img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> 
 
 <div/>
