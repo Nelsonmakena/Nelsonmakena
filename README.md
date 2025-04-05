@@ -39,7 +39,7 @@ I am a Full Stack Web Developer with a deep passion for building robust web appl
 <a target="_blank" href="https://twitter.com/nelsonndolo1"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <div/>
 &count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nelson-Ndolo&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats]]()
 
 <h3 align="left">Let's Connect :handshake:</h3>
 <div align="left">
