@@ -37,8 +37,6 @@ I am a Full Stack Web Developer with a deep passion for building robust web appl
 <a target="_blank" href="[https://www.linkedin.com/in/nelson-ndolo/](https://www.linkedin.com/in/nelson-ndolo-1a0037249/)"><img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> 
 <a target="_blank" href="mailto:nelsonmakena@outlook.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> 
 <a target="_blank" href="https://twitter.com/nelsonndolo1"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-<div/>]()
-[![My GitHub Language Stats]]()
 
 <h3 align="left">Let's Connect :handshake:</h3>
 <div align="left">
