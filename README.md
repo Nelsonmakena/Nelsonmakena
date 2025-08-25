@@ -11,7 +11,7 @@ I am a Full Stack Web Developer with a deep passion for building robust web appl
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
 ![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)
 ![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
-![Python](https://icongr.am/devicon/python-original.svg?size=50&color=currentColor)
+
 ![C](https://icongr.am/devicon/c-original.svg?size=50&color=currentColor)
 ![C++](https://icongr.am/devicon/cplusplus-original.svg?size=50&color=currentColor)
 ![C#](https://icongr.am/devicon/csharp-original.svg?size=50&color=currentColor)
@@ -21,7 +21,7 @@ I am a Full Stack Web Developer with a deep passion for building robust web appl
 ![React](https://icongr.am/devicon/react-original.svg?size=50&color=currentColor)
 ![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)
 ![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
-![SAAS](https://icongr.am/devicon/sass-original.svg?size=50&color=currentColor)
+
 
 ### Back End Development
 ![Postgresql](https://icongr.am/devicon/postgresql-original.svg?size=50&color=currentColor)
