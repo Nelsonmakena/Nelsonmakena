@@ -29,8 +29,17 @@ I am a Full Stack Web Developer with a deep passion for building robust web appl
 
 
 ### Github stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Nelsonmakena&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nelsonmakena&langs_count=5&theme=tokyonight)]()
+<p align="left"> <img src="https://readme-stats-github.pages.dev/api?username=nelsonmakena&theme=dark" alt="Nelson's GitHub Stats" height="180"/> <img src="https://readme-stats-github.pages.dev/api/top-langs?username=nelsonmakena&theme=dark" alt="Top Languages" height="180"/> </p>
+
+<p align="left"> <img src="https://www.readmecodegen.com/api/github-stats/svg?username=nelsonmakena&cardType=streak" alt="GitHub Streak" height="180"/> </p>
+
+<h3 align="left">Let's Connect 🤝</h3>
+
+<div align="left"> <a href="https://www.linkedin.com/in/nelson-ndolo-1a0037249/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
+
+<a href="mailto:nelsonmakena@outlook.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"> </a>
+
+<a href="https://twitter.com/nelsonndolo1" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"> </a> </div>
 
 <h3 align="left">Let's Connect 🤝</h3>
 
